@@ -5,7 +5,7 @@
 ### 1. Part 1 
     - Predicting Top 10 movies for a given movie 
     - Cross-checking the above list via Google’s Gemini 
-[Video Demonstration](https://github.com/shoryasethia/AIC-Manager-Recruitment/blob/main/Recommender-Systems/Model/Movie-Recommender-Demo.mp4)
+[Video Demonstration](https://github.com/shoryasethia/Movie-Recommender-System/blob/main/Model/Movie-Recommender-Demo.mp4)
 ### 2. Part 2 
     - Validating matrix-factorization models are superior to classic 
       nearest-neighbor techniques for producing product recommendations
@@ -31,7 +31,7 @@
     - Using SVD matrix-factorization model for predicting Top 10 
       unwatched movies for a given user and a given watched movie
     - Comparing my SVD model via current SOTA algorithm
- [Video Demonstration](https://github.com/shoryasethia/AIC-Manager-Recruitment/blob/main/Recommender-Systems/Model/movie-recommender-for-user.mp4)
+ [Video Demonstration](https://github.com/shoryasethia/Movie-Recommender-System/blob/main/Model/movie-recommender-for-user.mp4)
 
-![Movie Recommendation SOTA Reference from Research Paper](https://github.com/shoryasethia/AIC-Manager-Recruitment/blob/main/Recommender-Systems/SOTA.jpg)
+![Movie Recommendation SOTA Reference from Research Paper](https://github.com/shoryasethia/Movie-Recommender-System/blob/main/SOTA.jpg)
     
